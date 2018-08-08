@@ -1,2 +1,2 @@
 # gochat
-A simple Go game
+A simple Go Chat Application
